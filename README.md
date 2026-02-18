@@ -5,4 +5,4 @@
 
 ## Información del alumno:
 - Victor Manuel Cervantes Carrillo
-- 42306688@uax.edu.mx
+- 42306688@uaz.edu.mx
